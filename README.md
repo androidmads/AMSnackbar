@@ -4,12 +4,12 @@ Tiny Library to ease snackbar customization.
 ## Features
 ### 1.0.0
 Following features are available
-[x] Can change background color 
-[x] Can change message text color, action text color
-[x] Can change typeface of message and action text
-[x] Can change message text drawable, action text drawable
-[x] Can use icon with action button
-[x] RTL view also available
+- [x] Can change background color 
+- [x] Can change message text color, action text color
+- [x] Can change typeface of message and action text
+- [x] Can change message text drawable, action text drawable
+- [x] Can use icon with action button
+- [x] RTL support also available
 
 ## How to Download
 add the following library in your app level gradle file
