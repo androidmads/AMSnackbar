@@ -1,6 +1,8 @@
 # AMSnackbar
 Tiny Library to ease snackbar customization.
 
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-AMSnackbar-green.svg?style=flat )]( https://android-arsenal.com/details/1/7253 )
+
 ## Features
 ### 1.0.0
 Following features are available
